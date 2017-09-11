@@ -1,0 +1,22 @@
+body {
+  margin: auto 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+textarea {
+  width: 35%;
+  height: 500px;
+
+}
+#markdown {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  padding-left: 5em;
+}
+.App {
+ 
+  width: 80%;
+  margin: 0 auto;
+}
